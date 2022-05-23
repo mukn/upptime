@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "comcast-office",
     "status": "up",
-    "uptime": "0.37%",
-    "uptimeDay": "0.37%",
-    "uptimeWeek": "0.37%",
-    "uptimeMonth": "0.37%",
-    "uptimeYear": "0.37%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "uptime": "15.91%",
+    "uptimeDay": "15.91%",
+    "uptimeWeek": "15.91%",
+    "uptimeMonth": "15.91%",
+    "uptimeYear": "15.91%",
+    "time": 71,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {
       "2022-05-23": 50
     }
@@ -25,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "windstream-office",
     "status": "up",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptime": "15.83%",
+    "uptimeDay": "15.83%",
+    "uptimeWeek": "15.83%",
+    "uptimeMonth": "15.83%",
+    "uptimeYear": "15.83%",
     "time": 74,
     "timeDay": 74,
     "timeWeek": 74,
@@ -37,6 +37,26 @@
     "timeYear": 74,
     "dailyMinutesDown": {
       "2022-05-23": 50
+    }
+  },
+  {
+    "name": "Sharepoint sties",
+    "url": "https://nacgroup.sharepoint.com/sites/InternalIT",
+    "icon": "https://favicons.githubusercontent.com/nacgroup.sharepoint.com",
+    "slug": "sharepoint-sties",
+    "status": "down",
+    "uptime": "8.14%",
+    "uptimeDay": "8.14%",
+    "uptimeWeek": "8.14%",
+    "uptimeMonth": "8.14%",
+    "uptimeYear": "8.14%",
+    "time": 264,
+    "timeDay": 264,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2022-05-23": 0
     }
   }
 ]
