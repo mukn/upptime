@@ -11,6 +11,8 @@ sites:
     check: "tcp-ping"
     url: 71.16.153.90
     __dangerous__disable_verify_peer: true
+  - name: Sharepoint sties
+    url: https://nacgroup.sharepoint.com/sites/InternalIT
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -18,9 +20,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Upptime for NAC Mechanical Services
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is the seb services status page for NAC Mechanical Services.
   navbar:
     - title: Status
       href: /
